@@ -1,0 +1,15 @@
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/task2
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/task2.deps.json
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/task2.dll
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/ref/task2.dll
+/Users/deniskurushin/Desktop/HomeWork33/task2/bin/Debug/net6.0/task2.pdb
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.dll
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/ref/task2.dll
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.pdb
+/Users/deniskurushin/Desktop/HomeWork33/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
